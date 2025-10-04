@@ -1,0 +1,153 @@
+Kategorie,Unterkategorie,Detailtyp,Produkt,Produktname,Kennzahl,2018,2019,2020,2021,2022,2023,2024
+Erträge,Gesamtsumme,Aggregat,,,Ertrag,"10.372.609,27","11.273.596,67","12.196.527,30","11.846.389,37","15.154.533,48","15.133.940,74","13.423.743,68"
+Finanzerträge,Gesamtsumme,Aggregat,,,Ertrag,"63.196,07","73.284,27","69.664,67","67.197,36","66.542,16","53.839,93","62.771,47"
+Steuern und ähnliche Abgaben,Gesamtsumme,Aggregat,,,Ertrag,"5.544.096,15","5.734.034,71","4.809.378,13","6.122.902,62","9.019.607,70","8.634.446,44","7.424.229,54"
+Steuern und ähnliche Abgaben,Ausgleichsleistungen Fam.lastenausgl.,Steuerart,,,Ertrag,"142.140,00","154.836,00","170.736,00","174.720,00",,,
+Steuern und ähnliche Abgaben,Einkommensteueranteile,Steuerart,,,Ertrag,"1.686.573,00","1.725.900,00","1.730.786,00","1.839.966,00","1.935.299,00","2.123.006,00","2.125.132,00"
+Steuern und ähnliche Abgaben,Gewerbesteuer,Steuerart,,,Ertrag,"2.640.435,39","2.725.655,96","1.795.849,79","3.025.872,66","5.736.613,93","5.136.388,78","3.874.541,89"
+Steuern und ähnliche Abgaben,Gewerbesteuer,Betriebsgrößenklasse: bis 1.000 EUR,,bis 1.000 EUR,Anzahl Betriebe,,15,22,18,18,15,17
+Steuern und ähnliche Abgaben,Gewerbesteuer,Betriebsgrößenklasse: keine Gewerbesteuer,,keine Gewerbesteuer,Anzahl Betriebe,,34,52,51,38,35,39
+Steuern und ähnliche Abgaben,Gewerbesteuer,Betriebsgrößenklasse: über 1.000 bis 10.000 EUR,,über 1.000 bis 10.000 EUR,Anzahl Betriebe,,60,56,61,62,70,62
+Steuern und ähnliche Abgaben,Gewerbesteuer,Betriebsgrößenklasse: über 10.000 bis 100.000 EUR,,über 10.000 bis 100.000 EUR,Anzahl Betriebe,,23,23,23,23,22,25
+Steuern und ähnliche Abgaben,Gewerbesteuer,Betriebsgrößenklasse: über 100.000 EUR,,über 100.000 EUR,Anzahl Betriebe,,4,3,6,7,5,5
+Steuern und ähnliche Abgaben,Grundsteuer A,Steuerart,,,Ertrag,"41.632,82","41.688,74","41.624,65","41.359,24","41.199,57","41.261,05","41.178,82"
+Steuern und ähnliche Abgaben,Grundsteuer B,Steuerart,,,Ertrag,"523.626,17","530.988,09","534.121,49","558.954,67","550.768,24","571.714,72","569.095,49"
+Steuern und ähnliche Abgaben,Hundesteuer,Steuerart,,,Ertrag,"33.889,14","35.777,48","37.762,57","537,18","46.424,00","47.760,00","48.746,00"
+Steuern und ähnliche Abgaben,"Steuern, allg. Zuweisungen, allg. Umlagen",Teilergebnis,611000,"Steuern, allg. Zuweisungen, allg. Umlagen",Ertrag,,"5.734.034,71","4.809.378,13","6.122.902,62","9.019.607,70","8.634.446,44","7.424.229,54"
+Steuern und ähnliche Abgaben,Umsatzsteueranteile,Steuerart,,,Ertrag,"320.946,00","356.124,00","386.073,00","408.229,00","345.405,00","364.588,00","360.852,00"
+Steuern und ähnliche Abgaben,Vergnügungssteuer,Steuerart,,,Ertrag,"154.738,63","163.064,44","111.349,63","72.363,87","157.439,96","145.025,89","195.301,34"
+Zuwendungen und allgemeine Umlagen,Gesamtsumme,Aggregat,,,Ertrag,"1.328.491,74","2.081.113,17","2.882.152,36","2.389.188,40","2.764.693,92","2.577.797,67","1.550.911,59"
+Zuwendungen und allgemeine Umlagen,Bauleitplanung,Teilergebnis,511000,Bauleitplanung,Ertrag,,,,,"16.275,00","11.245,50",
+Zuwendungen und allgemeine Umlagen,Ehrenfriedhof,Teilergebnis,553900,Ehrenfriedhof,Ertrag,,"564,00","594,00","594,00","594,00","594,00","594,00"
+Zuwendungen und allgemeine Umlagen,Eingangsbereich,Teilergebnis,573002,Eingangsbereich,Ertrag,,"115,62","115,62","115,62","115,62","115,62","115,62"
+Zuwendungen und allgemeine Umlagen,FF Lensahn,Teilergebnis,126001,FF Lensahn,Ertrag,,"6.872,93","7.766,33","8.913,74","11.370,20","11.975,32","15.942,59"
+Zuwendungen und allgemeine Umlagen,FF Lensahnerhof,Teilergebnis,126002,FF Lensahnerhof,Ertrag,,"1.282,26","1.282,27","1.282,32","1.623,24","1.501,00","1.501,02"
+Zuwendungen und allgemeine Umlagen,FF Sipsdorf,Teilergebnis,126003,FF Sipsdorf,Ertrag,,"561,12","540,30","462,76","571,34","1.874,68","2.047,52"
+Zuwendungen und allgemeine Umlagen,FF Wahrendorf,Teilergebnis,126004,FF Wahrendorf,Ertrag,,"2.482,20","2.482,20","1.922,62","1.619,38","93,06","93,06"
+Zuwendungen und allgemeine Umlagen,Fremdenverkehr,Teilergebnis,575000,Fremdenverkehr,Ertrag,,,"834,08","1.572,58","1.571,04",,
+Zuwendungen und allgemeine Umlagen,Gemeindebücherei,Teilergebnis,272000,Gemeindebücherei,Ertrag,,"14.755,00","15.511,39","15.761,44","16.430,65","12.008,49","15.970,37"
+Zuwendungen und allgemeine Umlagen,Gemeindestraßen,Teilergebnis,541000,Gemeindestraßen,Ertrag,,"197.450,02","197.310,84","209.855,04","210.143,09","210.300,97","208.187,79"
+Zuwendungen und allgemeine Umlagen,Grund- und Gemeinschaftsschule Lensahn,Teilergebnis,218200,Grund- und Gemeinschaftsschule Lensahn,Ertrag,,"10.067,16","10.525,63","10.564,05","10.769,33","10.825,23","13.704,37"
+Zuwendungen und allgemeine Umlagen,Grünanlagen,Teilergebnis,551000,Grünanlagen,Ertrag,,,"70,00","420,00","420,00","420,00","420,00"
+Zuwendungen und allgemeine Umlagen,Hauptamt,Teilergebnis,111001,Hauptamt,Ertrag,,"9.121,68","9.121,68","9.121,68","9.121,68","9.121,68","9.121,68"
+Zuwendungen und allgemeine Umlagen,Kegelbahn,Teilergebnis,424005,Kegelbahn,Ertrag,,,,,,"1.834,95","4.403,88"
+Zuwendungen und allgemeine Umlagen,Kinderspielplätze,Teilergebnis,551001,Kinderspielplätze,Ertrag,,"2.645,34","2.402,43","1.673,94","1.534,44",,
+Zuwendungen und allgemeine Umlagen,Schießsportanlage,Teilergebnis,424004,Schießsportanlage,Ertrag,,"2.139,84","2.139,84","2.139,84","2.139,84","2.139,84","2.139,84"
+Zuwendungen und allgemeine Umlagen,Schlüsselzuweisungen,Zuweisungstyp,,,Ertrag,"281.004,00","1.004.352,00","966.852,00","1.089.636,00","1.270.392,00","1.026.960,00","140.328,00"
+Zuwendungen und allgemeine Umlagen,Schlüsselzuweisungen übergem. Aufgaben,Zuweisungstyp,,,Ertrag,"776.916,00","806.712,00","850.272,00","824.256,00","961.596,00","1.121.544,00","992.688,00"
+Zuwendungen und allgemeine Umlagen,Sport- und Vereinsheim,Teilergebnis,424003,Sport- und Vereinsheim,Ertrag,,"977,82","977,82","977,82","977,82","977,82","977,82"
+Zuwendungen und allgemeine Umlagen,Sportplatz,Teilergebnis,424002,Sportplatz,Ertrag,,,"840,99","3.363,96","4.062,86","4.062,90","4.597,72"
+Zuwendungen und allgemeine Umlagen,"Steuern, allg. Zuweisungen, allg. Umlagen",Teilergebnis,611000,"Steuern, allg. Zuweisungen, allg. Umlagen",Ertrag,,"1.811.064,00","2.608.179,71","1.962.713,54","2.307.190,16","2.208.504,00","1.170.863,00"
+Zuwendungen und allgemeine Umlagen,Straßenbeleuchtung,Teilergebnis,541001,Straßenbeleuchtung,Ertrag,,"868,44","868,49","868,50","1.312,86","1.312,86","1.312,86"
+Zuwendungen und allgemeine Umlagen,Städtebausanierung,Teilergebnis,511001,Städtebausanierung,Ertrag,,,,,"2.666,66","31.999,92","58.467,00"
+Zuwendungen und allgemeine Umlagen,Tourismus,Teilergebnis,575000,Tourismus,Ertrag,,,,,,"1.571,04","1.570,98"
+Zuwendungen und allgemeine Umlagen,Veranstaltungssaal,Teilergebnis,573000,Veranstaltungssaal,Ertrag,,"1.153,98","1.153,92","380,76","309,69","238,62","238,62"
+Zuwendungen und allgemeine Umlagen,Waldschwimmbad,Teilergebnis,424000,Waldschwimmbad,Ertrag,,"18.991,76","19.434,82","156.484,19","163.875,02","53.580,17","35.641,85"
+Zuwendungen und allgemeine Umlagen,sonstige lfd. Zuweisungen,Zuweisungstyp,,,Ertrag,"81.483,11","86.544,29","895.374,87","287.361,96","308.067,87","177.529,07","157.862,69"
+Zuwendungen und allgemeine Umlagen,öffentliche Toiletten,Teilergebnis,538001,öffentliche Toiletten,Ertrag,,,,,,"1.500,00","3.000,00"
+Sonstige Transfererträge,Gesamtsumme,Aggregat,,,Ertrag,"0,00","0,00","0,00","0,00","0,00","0,00","0,00"
+öffentlich-rechtliche Leistungsentgelte,Gesamtsumme,Aggregat,,,Ertrag,"206.274,55","188.723,06","143.165,05","159.642,29","216.262,12","225.385,34","275.027,59"
+öffentlich-rechtliche Leistungsentgelte,Allgemeine Ordnungsangelegenheiten,Teilergebnis,122000,Allgemeine Ordnungsangelegenheiten,Ertrag,,"4.407,00","3.163,00","5.151,00","6.592,00","8.732,00","41.402,96"
+öffentlich-rechtliche Leistungsentgelte,Fremdenverkehr,Teilergebnis,575000,Fremdenverkehr,Ertrag,,"26.269,30","25.288,13","25.558,84","25.623,68",,
+öffentlich-rechtliche Leistungsentgelte,Gemeindebücherei,Teilergebnis,272000,Gemeindebücherei,Ertrag,,"2.524,90","2.270,90","1.895,30","2.649,60","2.574,40","2.636,50"
+öffentlich-rechtliche Leistungsentgelte,Gemeindestraßen,Teilergebnis,541000,Gemeindestraßen,Ertrag,,"39.811,00","39.972,00","39.738,00","40.321,00","39.910,00","39.805,00"
+öffentlich-rechtliche Leistungsentgelte,Gemeindewehrführer,Teilergebnis,126000,Gemeindewehrführer,Ertrag,,"11.333,03","4.167,14","1.663,46","2.676,06","1.414,97","332,01"
+öffentlich-rechtliche Leistungsentgelte,Melde- und Personenstandswesen,Teilergebnis,122200,Melde- und Personenstandswesen,Ertrag,,,,,,"100,00",
+öffentlich-rechtliche Leistungsentgelte,Straßenbeleuchtung,Teilergebnis,541001,Straßenbeleuchtung,Ertrag,,"499,86","499,86","499,86","499,86","499,86","499,86"
+öffentlich-rechtliche Leistungsentgelte,Tourismus,Teilergebnis,575000,Tourismus,Ertrag,,,,,,"26.158,71","28.264,74"
+öffentlich-rechtliche Leistungsentgelte,Veranstaltungssaal,Teilergebnis,573000,Veranstaltungssaal,Ertrag,,"28.242,46","9.479,33","16.745,32","33.255,43","47.277,32","47.637,87"
+öffentlich-rechtliche Leistungsentgelte,Waldschwimmbad,Teilergebnis,424000,Waldschwimmbad,Ertrag,,"75.635,51","58.324,69","68.390,51","104.644,49","98.718,08","114.448,65"
+privatrechtliche Leistungsentgelte,Gesamtsumme,Aggregat,,,Ertrag,"76.927,73","80.840,01","425.088,86","145.293,95","153.315,75","161.761,29","179.396,41"
+privatrechtliche Leistungsentgelte,Abfallbeseitigung,Teilergebnis,537000,Abfallbeseitigung,Ertrag,,"2.753,23","3.545,69","3.003,69","3.566,40","3.050,32","2.676,47"
+privatrechtliche Leistungsentgelte,Allgemeine Ordnungsangelegenheiten,Teilergebnis,122000,Allgemeine Ordnungsangelegenheiten,Ertrag,,"22,00",,"3.014,80","4.908,02","5.504,42","-6.942,27"
+privatrechtliche Leistungsentgelte,Bauhof,Teilergebnis,573900,Bauhof,Ertrag,,"4,00","265,97","24.546,59","2.122,58","1.131,04","1.008,85"
+privatrechtliche Leistungsentgelte,Bauleitplanung,Teilergebnis,511000,Bauleitplanung,Ertrag,,,,,,,"6.000,00"
+privatrechtliche Leistungsentgelte,Eingangsbereich,Teilergebnis,573002,Eingangsbereich,Ertrag,,,,"0,19",,,"1.097,32"
+privatrechtliche Leistungsentgelte,Elektritzitätsversorgung,Teilergebnis,531000,Elektritzitätsversorgung,Ertrag,,,,,,,"1.915,86"
+privatrechtliche Leistungsentgelte,FF Lensahn,Teilergebnis,126001,FF Lensahn,Ertrag,,"1.682,91","1.957,97","2.719,65","3.135,76","1.614,22","2.943,65"
+privatrechtliche Leistungsentgelte,FF Lensahnerhof,Teilergebnis,126002,FF Lensahnerhof,Ertrag,,"4.978,05","685,20","120,00","1.415,34","1.077,45","1.049,79"
+privatrechtliche Leistungsentgelte,FF Sipsdorf,Teilergebnis,126003,FF Sipsdorf,Ertrag,,"842,55","1.042,99","1.676,17","3.217,86","11.410,75","1.485,04"
+privatrechtliche Leistungsentgelte,FF Wahrendorf,Teilergebnis,126004,FF Wahrendorf,Ertrag,,"116,98","12,18",,"314,40","466,84","638,14"
+privatrechtliche Leistungsentgelte,Fremdenverkehr,Teilergebnis,575000,Fremdenverkehr,Ertrag,,,"58,63","1.041,34","1.464,00",,
+privatrechtliche Leistungsentgelte,Förderung Kindertageseinrichtungen,Teilergebnis,361100,Förderung Kindertageseinrichtungen,Ertrag,,,,"699,90",,,
+privatrechtliche Leistungsentgelte,Förderung der Wohlfahrtspflege,Teilergebnis,331000,Förderung der Wohlfahrtspflege,Ertrag,,"5.128,45","8.031,20","5.551,38","4.454,20","8.124,70","3.884,73"
+privatrechtliche Leistungsentgelte,Gemeindebücherei,Teilergebnis,272000,Gemeindebücherei,Ertrag,,"1.636,51","1.164,00","1.231,50","1.655,55","2.742,25","4.360,99"
+privatrechtliche Leistungsentgelte,Gemeindeorgane,Teilergebnis,111000,Gemeindeorgane,Ertrag,,,,"1.922,21",,"120,70","271,77"
+privatrechtliche Leistungsentgelte,Gemeindestraßen,Teilergebnis,541000,Gemeindestraßen,Ertrag,,"2.714,57","17.063,58","9.405,19","6.262,56","8.269,22","4.120,19"
+privatrechtliche Leistungsentgelte,Gemeindewehrführer,Teilergebnis,126000,Gemeindewehrführer,Ertrag,,"478,12",,"1.178,24","942,44","1.340,35",
+privatrechtliche Leistungsentgelte,Grund- und Gemeinschaftsschule Lensahn,Teilergebnis,218200,Grund- und Gemeinschaftsschule Lensahn,Ertrag,,,,"1.178,29",,,
+privatrechtliche Leistungsentgelte,Grünanlagen,Teilergebnis,551000,Grünanlagen,Ertrag,,"3.551,16","-2.947,38","350,15",,"350,00",
+privatrechtliche Leistungsentgelte,Hauptamt,Teilergebnis,111001,Hauptamt,Ertrag,,"100,00","250,00","776,70",,"143,75","370,91"
+privatrechtliche Leistungsentgelte,Heimat- und sonstige Kulturpflege,Teilergebnis,281000,Heimat- und sonstige Kulturpflege,Ertrag,,"277,88","323,80","2.742,96","237,80","367,00","568,40"
+privatrechtliche Leistungsentgelte,JF Lensahn,Teilergebnis,126100,JF Lensahn,Ertrag,,,,,"598,10",,
+privatrechtliche Leistungsentgelte,Kegelbahn,Teilergebnis,424005,Kegelbahn,Ertrag,,"4.240,26","6.884,24","6.034,45","4.927,38","7.343,61","7.995,33"
+privatrechtliche Leistungsentgelte,Liegenschaftsverwaltung,Teilergebnis,111005,Liegenschaftsverwaltung,Ertrag,,"36.571,63","35.207,52","33.932,45","34.549,95","51.455,97","111.130,77"
+privatrechtliche Leistungsentgelte,Schießsportanlage,Teilergebnis,424004,Schießsportanlage,Ertrag,,"366,49","2.380,90","733,72","511,73","1.129,48","2.380,69"
+privatrechtliche Leistungsentgelte,Sport- und Vereinsheim,Teilergebnis,424003,Sport- und Vereinsheim,Ertrag,,"413,57","430,35","716,82","462,11","529,82","575,21"
+privatrechtliche Leistungsentgelte,Sportplatz,Teilergebnis,424002,Sportplatz,Ertrag,,,,"5.879,25","3.242,64","3.320,05","5.752,03"
+privatrechtliche Leistungsentgelte,Straßenbeleuchtung,Teilergebnis,541001,Straßenbeleuchtung,Ertrag,,"153,38","3.913,34","6.838,85","10.088,03","31.116,80","6.541,93"
+privatrechtliche Leistungsentgelte,Städtebausanierung,Teilergebnis,511001,Städtebausanierung,Ertrag,,,,,"42.662,72",,
+privatrechtliche Leistungsentgelte,Tourismus,Teilergebnis,575000,Tourismus,Ertrag,,,,,,"94,54",
+privatrechtliche Leistungsentgelte,Veranstaltungssaal,Teilergebnis,573000,Veranstaltungssaal,Ertrag,,"5.700,15","4.752,08","5.051,09","9.517,24","5.070,05","5.367,56"
+privatrechtliche Leistungsentgelte,Verwaltung der Grundsicherung nach SGB XII,Teilergebnis,311000,Verwaltung der Grundsicherung nach SGB XII,Ertrag,,,,"3.844,98",,,
+privatrechtliche Leistungsentgelte,Waldschwimmbad,Teilergebnis,424000,Waldschwimmbad,Ertrag,,"8.786,82","8.021,15","21.103,39","13.057,94","15.987,96","14.203,05"
+privatrechtliche Leistungsentgelte,Wasserversorgung,Teilergebnis,533000,Wasserversorgung,Ertrag,,,"332.045,45",,"1,00",,
+privatrechtliche Leistungsentgelte,öffentliche Toiletten,Teilergebnis,538001,öffentliche Toiletten,Ertrag,,"321,30",,,,,
+Kostenerstattungen u. Kostenumlagen,Gesamtsumme,Aggregat,,,Ertrag,"2.483.319,08","2.606.329,93","2.789.263,38","2.684.446,17","2.822.168,81","2.859.986,60","3.168.302,70"
+Kostenerstattungen u. Kostenumlagen,Allgemeine Ordnungsangelegenheiten,Teilergebnis,122000,Allgemeine Ordnungsangelegenheiten,Ertrag,,"123.986,43","133.629,44","162.372,64","179.796,28","174.380,54","179.899,48"
+Kostenerstattungen u. Kostenumlagen,Asylbewerber,Teilergebnis,122001,Asylbewerber,Ertrag,,"132.040,29","87.270,31","65.569,56","54.972,33","101.103,34","125.891,92"
+Kostenerstattungen u. Kostenumlagen,Bauhof,Teilergebnis,573900,Bauhof,Ertrag,,"14.383,25","11.813,93","12.397,63","13.070,23","12.417,57","12.458,83"
+Kostenerstattungen u. Kostenumlagen,Bauleitplanung,Teilergebnis,511000,Bauleitplanung,Ertrag,,"17.442,26","35.932,83","45.305,70","47.020,07","48.829,37","48.729,32"
+Kostenerstattungen u. Kostenumlagen,Bauordnung,Teilergebnis,521000,Bauordnung,Ertrag,,"10.962,06","12.184,90","10.142,09","9.343,18","11.494,98","11.059,22"
+Kostenerstattungen u. Kostenumlagen,Eigene Bauverwaltung,Teilergebnis,111007,Eigene Bauverwaltung,Ertrag,,"26.374,04","91.906,90","62.675,49","66.610,25","91.717,31","74.569,79"
+Kostenerstattungen u. Kostenumlagen,Elektronische Datenverarbeitung,Teilergebnis,111006,Elektronische Datenverarbeitung,Ertrag,,"42.604,16","67.199,19","68.234,06","142.532,29","160.645,76","156.542,61"
+Kostenerstattungen u. Kostenumlagen,Finanzbuchhaltung,Teilergebnis,111004,Finanzbuchhaltung,Ertrag,,"65.067,26","77.260,87","79.555,79","90.675,02","87.008,31","89.155,50"
+Kostenerstattungen u. Kostenumlagen,Finanzverwaltung,Teilergebnis,111003,Finanzverwaltung,Ertrag,,"155.616,16","230.940,58","248.997,05","277.631,82","283.997,53","343.769,61"
+Kostenerstattungen u. Kostenumlagen,Fremdenverkehr,Teilergebnis,575000,Fremdenverkehr,Ertrag,,"33.028,02","33.718,70","34.129,69","38.861,34",,
+Kostenerstattungen u. Kostenumlagen,Förderung Kindertageseinrichtungen,Teilergebnis,361100,Förderung Kindertageseinrichtungen,Ertrag,,"442.751,21","449.595,62","287.426,89","12.543,59","14.314,52","18.663,76"
+Kostenerstattungen u. Kostenumlagen,Gemeindebücherei,Teilergebnis,272000,Gemeindebücherei,Ertrag,,,"99,54","13,00","5,00",,"105,84"
+Kostenerstattungen u. Kostenumlagen,Gemeindeorgane,Teilergebnis,111000,Gemeindeorgane,Ertrag,,"218.440,80","237.576,57","219.338,95","365.947,42","228.377,56","262.610,88"
+Kostenerstattungen u. Kostenumlagen,Gemeindestraßen,Teilergebnis,541000,Gemeindestraßen,Ertrag,,"39.829,80","-8.745,24","9.916,73","9.857,90","24.964,70","30.464,52"
+Kostenerstattungen u. Kostenumlagen,Gemeindewehrführer,Teilergebnis,126000,Gemeindewehrführer,Ertrag,,"14.935,81","13.902,31","31.610,60","13.939,24","53.275,74","56.331,03"
+Kostenerstattungen u. Kostenumlagen,Gleichstellungsbeauftragte,Teilergebnis,111002,Gleichstellungsbeauftragte,Ertrag,,"1.664,00","1.900,00","1.884,00",,"1.884,00","1.884,00"
+Kostenerstattungen u. Kostenumlagen,Großsporthalle,Teilergebnis,424001,Großsporthalle,Ertrag,,"34.574,43","36.743,08","36.928,61","37.349,67","36.763,25","40.491,37"
+Kostenerstattungen u. Kostenumlagen,Grund- und Gemeinschaftsschule Lensahn,Teilergebnis,218200,Grund- und Gemeinschaftsschule Lensahn,Ertrag,,"374.678,53","400.509,88","433.408,91","443.823,68","457.100,26","579.482,04"
+Kostenerstattungen u. Kostenumlagen,Grundsicherung nach SGB II,Teilergebnis,312000,Grundsicherung nach SGB II,Ertrag,,"75.168,81","85.891,90","98.129,40","98.946,90","110.381,36","99.701,47"
+Kostenerstattungen u. Kostenumlagen,Grünanlagen,Teilergebnis,551000,Grünanlagen,Ertrag,,"12.640,18","-1.747,91","4.911,58","2.751,53","10,47",
+Kostenerstattungen u. Kostenumlagen,Hauptamt,Teilergebnis,111001,Hauptamt,Ertrag,,"226.032,04","201.807,77","243.762,39","289.435,15","255.433,30","302.334,07"
+Kostenerstattungen u. Kostenumlagen,Kinderspielplätze,Teilergebnis,551001,Kinderspielplätze,Ertrag,,"6.133,30","21.197,98","20.052,40","24.035,63","13.071,61","578,73"
+Kostenerstattungen u. Kostenumlagen,Leistungen nach dem Wohngeldgesetz,Teilergebnis,351000,Leistungen nach dem Wohngeldgesetz,Ertrag,,"39.361,06","43.162,43","38.654,33","35.916,57","76.500,46","80.036,25"
+Kostenerstattungen u. Kostenumlagen,Liegenschaftsverwaltung,Teilergebnis,111005,Liegenschaftsverwaltung,Ertrag,,"30.658,98","35.132,89","35.031,70","36.017,48","36.969,15","39.926,15"
+Kostenerstattungen u. Kostenumlagen,Melde- und Personenstandswesen,Teilergebnis,122200,Melde- und Personenstandswesen,Ertrag,,"101.233,94","128.035,00","113.726,57","119.774,48","122.393,05","142.646,42"
+Kostenerstattungen u. Kostenumlagen,Sonstige Jugendarbeit,Teilergebnis,362500,Sonstige Jugendarbeit,Ertrag,,,,"4.003,91","15.380,99","91,31",
+Kostenerstattungen u. Kostenumlagen,Sonstige schulische Aufgaben,Teilergebnis,243000,Sonstige schulische Aufgaben,Ertrag,,"39.737,17","39.875,63","35.804,68","37.811,13","52.223,13","53.667,50"
+Kostenerstattungen u. Kostenumlagen,Sportplatz,Teilergebnis,424002,Sportplatz,Ertrag,,"41.031,03",,"26.345,71","28.393,19","41.313,82","32.873,41"
+Kostenerstattungen u. Kostenumlagen,Straßenbeleuchtung,Teilergebnis,541001,Straßenbeleuchtung,Ertrag,,"16.475,86","-4.568,28","4.919,38","4.446,44","15.305,28","11.810,28"
+Kostenerstattungen u. Kostenumlagen,Tourismus,Teilergebnis,575000,Tourismus,Ertrag,,,,,,"40.081,83","42.547,97"
+Kostenerstattungen u. Kostenumlagen,Veranstaltungssaal,Teilergebnis,573000,Veranstaltungssaal,Ertrag,,,"377,00",,,"5.465,35",
+Kostenerstattungen u. Kostenumlagen,Verwaltung der Grundsicherung nach SGB XII,Teilergebnis,311000,Verwaltung der Grundsicherung nach SGB XII,Ertrag,,"63.780,34","137.583,32","71.077,29","132.189,59","99.092,91","126.475,81"
+Kostenerstattungen u. Kostenumlagen,Waldschwimmbad,Teilergebnis,424000,Waldschwimmbad,Ertrag,,,"5.893,61",,"617,48","26,31",
+Kostenerstattungen u. Kostenumlagen,Wasserversorgung,Teilergebnis,533000,Wasserversorgung,Ertrag,,"188.900,67","160.388,70","160.826,09","174.974,98","186.426,32","198.400,25"
+Kostenerstattungen u. Kostenumlagen,Öffentlicher Personennahverkehr,Teilergebnis,547000,Öffentlicher Personennahverkehr,Ertrag,,"16.798,04","22.793,93","17.293,35","17.497,96","16.926,20","5.194,67"
+sonstige Erträge,Gesamtsumme,Aggregat,,,Ertrag,"733.500,02","582.555,79","1.147.479,52","344.915,94","178.485,18","674.563,40","825.875,85"
+sonstige Erträge,Allgemeine Ordnungsangelegenheiten,Teilergebnis,122000,Allgemeine Ordnungsangelegenheiten,Ertrag,,,,,,,"70,00"
+sonstige Erträge,Bauhof,Teilergebnis,573900,Bauhof,Ertrag,,"2.916,37","16.628,13","3.221,30",,"10.417,00","146.962,19"
+sonstige Erträge,Eigene Bauverwaltung,Teilergebnis,111007,Eigene Bauverwaltung,Ertrag,,,"16.628,13","3.221,30",,"10.420,00","112.983,84"
+sonstige Erträge,Elektritzitätsversorgung,Teilergebnis,531000,Elektritzitätsversorgung,Ertrag,,"132.678,39","134.390,66","129.594,14","126.080,00","125.891,29","130.880,00"
+sonstige Erträge,Elektronische Datenverarbeitung,Teilergebnis,111006,Elektronische Datenverarbeitung,Ertrag,,"21.111,54","118,57","4.381,19",,"11.011,00","137.198,21"
+sonstige Erträge,FF Lensahn,Teilergebnis,126001,FF Lensahn,Ertrag,,,,"14.999,00",,"-90,00",
+sonstige Erträge,Finanzbuchhaltung,Teilergebnis,111004,Finanzbuchhaltung,Ertrag,,"7.239,83","921,19","1.915,78","1.151,44","5.340,50","49.047,80"
+sonstige Erträge,Finanzverwaltung,Teilergebnis,111003,Finanzverwaltung,Ertrag,,"30.950,75","22.104,88","14.840,52",,"56.876,00","86.116,17"
+sonstige Erträge,Gasversorgung,Teilergebnis,532000,Gasversorgung,Ertrag,,"27.038,12","12.809,12","16.658,45","8.329,23","20.941,08","13.418,05"
+sonstige Erträge,Gemeindeorgane,Teilergebnis,111000,Gemeindeorgane,Ertrag,,"1.562,33","82.966,93","43.955,36","3.067,00","54.332,60","32.795,00"
+sonstige Erträge,Gemeindestraßen,Teilergebnis,541000,Gemeindestraßen,Ertrag,,,,,,,"2.489,00"
+sonstige Erträge,Grünanlagen,Teilergebnis,551000,Grünanlagen,Ertrag,,,,"70.128,78",,,
+sonstige Erträge,JF Lensahn,Teilergebnis,126100,JF Lensahn,Ertrag,,,,"399,00",,,
+sonstige Erträge,Kinderspielplätze,Teilergebnis,551001,Kinderspielplätze,Ertrag,,,"8.314,08","1.610,71",,"5.209,00","56.491,42"
+sonstige Erträge,Liegenschaftsverwaltung,Teilergebnis,111005,Liegenschaftsverwaltung,Ertrag,,"313.901,60","362,12",,,,
+sonstige Erträge,"Steuern, allg. Zuweisungen, allg. Umlagen",Teilergebnis,611000,"Steuern, allg. Zuweisungen, allg. Umlagen",Ertrag,,"8.547,60","15.439,00","1.911,00","271,00","335.134,45","3.801,00"
+sonstige Erträge,Waldschwimmbad,Teilergebnis,424000,Waldschwimmbad,Ertrag,,,,,,,"6.378,11"
+sonstige Erträge,Wasserversorgung,Teilergebnis,533000,Wasserversorgung,Ertrag,,"36.600,28","36.796,71","38.063,10","39.586,51","39.080,48","47.245,06"
+sonstige Erträge,sonstige allg. Finanzwirtschaft,Teilergebnis,612000,sonstige allg. Finanzwirtschaft,Ertrag,,"8,98","800.000,00","16,31",,,
+aktivierte Eigenleistungen,Gesamtsumme,Aggregat,,,Ertrag,"0,00","0,00","0,00","0,00","0,00","0,00","0,00"
+Bestandveränderungen,Gesamtsumme,Aggregat,,,Ertrag,"0,00","0,00","0,00","0,00","0,00","0,00","0,00"

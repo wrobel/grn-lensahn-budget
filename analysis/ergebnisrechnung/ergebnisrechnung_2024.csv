@@ -1,0 +1,25 @@
+Spalte 13 (Kontenbereich),Spalte 24 (Lfd. Nr.),Spalte 3 (Ertrags- und Aufwandsarten),Spalte 4 (Ergebnis des Vorjahres in EUR),Spalte 5 (Fortgeschriebener Ansatz des Haushaltsjahres in EUR),Spalte 6 (Ist-Ergebnis des Haushaltsjahres in EUR),Spalte 7 (Vergleich Ansatz/Ist in EUR),Spalte 8 (Übertragene Ermächtigungen in EUR)
+40,1,Steuern und ähnliche Abgaben,"8.634.446,44","6.795.300,00","7.424.229,54","628.929,54-",-
+41,2,+ Zuwendungen und allgemeine Umlagen,"2.577.797,67","1.721.200,00","1.550.911,59","170.288,41",-
+42,3,+ Sonstige Transfererträge,"0,00","0,00","0,00","0,00",-
+43,4,+ öffentlich-rechtliche Leistungsentgelte,"225.385,34","170.400,00","275.027,59","104.627,59-",-
+"441, 442, 446",5,+ privatrechtliche Leistungsentgelte,"161.761,29","111.500,00","179.396,41","67.896,41-",-
+448,6,+ Kostenerstattungen u. Kostenumlagen,"2.859.986,60","3.090.600,00","3.168.302,70","77.702,70-",-
+45,7,+ sonstige Erträge,"674.563,40","246.200,00","825.875,85","579.675,85-",-
+471,8,+ aktivierte Eigenleistungen,"0,00","0,00","0,00","0,00",-
+472,9,+ / - Bestandveränderungen,"0,00","0,00","0,00","0,00",-
+,10,= Erträge,"15.133.940,74","12.135.200,00","13.423.743,68","1.288.543,68-",-
+50,11,Personalaufwendungen,"4.453.972,22","4.430.000,00","5.290.282,58","860.282,58-","0,00"
+51,12,+ Versorgungsaufwendungen,"11.882,49","13.800,00","14.695,19","895,19-","0,00"
+52,13,+ Aufwendungen für Sach- und Dienstleistungen,"1.375.723,89","2.192.505,34","1.308.959,30","883.546,04","85.825,15"
+57,14,+ bilanzielle Abschreibungen,"537.635,47","487.700,00","635.682,03","147.982,03-","0,00"
+53,15,+ Transferaufwendungen,"5.736.277,06","6.876.932,65","6.590.297,55","286.635,10","169.203,00"
+54,16,+ sonstige Aufwendungen,"1.320.513,31","1.566.200,00","1.482.688,64","83.511,36","40.000,00"
+,17,= Aufwendungen,"13.436.004,44","15.567.137,99","15.322.605,29","244.532,70","295.028,15"
+,18,= Ergebnis der laufenden Verwaltungstätigkeit (=Zeilen 10 / 17),"1.697.936,30","3.431.937,99-","1.898.861,61-","1.533.076,38-","295.028,15-"
+46,19,+ Finanzerträge,"53.839,93","54.800,00","62.771,47","7.971,47-",-
+55,20,- Zinsen und sonstige Finanzaufwendungen,"7.609,69-","12.000,00-","20.382,44-","8.382,44","0,00"
+,21,= Finanzergebnis (= Zeilen 19 und 20),"46.230,24","42.800,00","42.389,03","410,97","0,00"
+,22,= Jahresergebnis (= Zeilen 18 und 21),"1.744.166,54","3.389.137,99-","1.856.472,58-","1.532.665,41-","295.028,15-"
+49,23,Inanspruchnahme der Ausgleichsrücklage nach § 26 Absatz 1 Satz 2 zum Haushalt-sausgleich,"0,00","2.754.000,00","0,00","2.754.000,00","0,00"
+,24,= Jahresergebnis unter Inanspruchnahme der Ausgleichsrücklage (= Zeilen 22 und 23),"1.744.166,54","635.137,99-","1.856.472,58-","1.221.334,59","295.028,15-"

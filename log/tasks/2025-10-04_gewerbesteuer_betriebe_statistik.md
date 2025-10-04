@@ -1,0 +1,4 @@
+# 2025-10-04 – Auswertung Gewerbesteuer-Betriebsverteilung
+- **Aufgabe:** Extraktion der Tabelle "Bei der Gewerbesteuer ergibt sich..." aus den Schlussbilanzen (Abschnitt 6.8 Entwicklung der Gemeinde) und Zusammenführung der Betriebsanzahlen über alle verfügbaren Jahre.
+- **Vorgehen:** neues Skript `analysis/lagebericht/extract_gewerbesteuerstatistik.py` erstellt, das die PDFs rückwärts durchsucht, die relevanten Zeilen parst und die Kategorien mit Betriebsanzahlen pro Jahr aggregiert. Ergebnis wird als CSV sowie Markdown-Tabelle gespeichert (`analysis/lagebericht/gewerbesteuer_betriebe_counts.csv` bzw. `.md`).
+- **Ergebnis:** Tabelle enthält für die Kategorien *keine Gewerbesteuer*, *bis 1.000 EUR*, *über 1.000 bis 10.000 EUR*, *über 10.000 bis 100.000 EUR* und *über 100.000 EUR* die jeweilige Anzahl von Betrieben für 2019–2024.
